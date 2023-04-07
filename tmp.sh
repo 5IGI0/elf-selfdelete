@@ -1,0 +1,1 @@
+gcc *.c -Wall -Wextra -std=c99 -g3 -DREMAPPER_DEBUG_LOG=1 --static
